@@ -1,0 +1,6 @@
+question: Что программа выведет на экран?
+photo: photo-205320016_457239110
+hard: 3
+right answer: yes
+
+explenetion: Так как условие 2<5 истинно, то будет выведено "yes".

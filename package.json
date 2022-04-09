@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@vk-io/hear": "^1.1.0",
+    "dotenv": "^16.0.0",
+    "math": "^0.0.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.13",
+    "random": "^3.0.6",
+    "vk-io": "^4.3.2",
+    "vk-io-question": "^3.1.1"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
